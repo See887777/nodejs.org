@@ -93,6 +93,10 @@
       "destination": "/en/about"
     },
     {
+      "source": "/about/:path*",
+      "destination": "/en/about/:path*"
+    },
+    {
       "source": "/community",
       "destination": "/en/get-involved"
     },
@@ -150,6 +154,10 @@
     },
     {
       "source": "/(static/|)apple-touch-icon(.*).png",
+      "destination": "/static/images/favicons/favicon.png"
+    },
+    {
+      "source": "/(static/)images/favicons/favicon.ico",
       "destination": "/static/images/favicons/favicon.png"
     },
     {
