@@ -185,6 +185,10 @@
               "link": "/learn/getting-started/profiling",
               "label": "components.navigation.learn.gettingStarted.links.profiling"
             },
+            "fetch": {
+              "link": "/learn/getting-started/fetch",
+              "label": "components.navigation.learn.gettingStarted.links.fetch"
+            },
             "securityBestPractices": {
               "link": "/learn/getting-started/security-best-practices",
               "label": "components.navigation.learn.gettingStarted.links.securityBestPractices"
@@ -209,6 +213,10 @@
             "runNatively": {
               "link": "/learn/typescript/run-natively",
               "label": "components.navigation.learn.typescript.links.runNatively"
+            },
+            "publishingTSPackage": {
+              "link": "/learn/typescript/publishing-a-ts-package",
+              "label": "components.navigation.learn.typescript.links.publishingTSPackage"
             }
           }
         },

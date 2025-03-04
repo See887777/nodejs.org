@@ -11,6 +11,9 @@
         }
       },
       "navBar": {
+        "controls": {
+          "toggle": "Toggle navigation menu"
+        },
         "links": {
           "about": "About",
           "download": "Download",
@@ -39,6 +42,7 @@
             "nodejsWithWebassembly": "Node.js with WebAssembly",
             "debugging": "Debugging Node.js",
             "profiling": "Profiling Node.js Applications",
+            "fetch": "Fetching data with Node.js",
             "securityBestPractices": "Security Best Practices"
           }
         },
@@ -48,7 +52,8 @@
             "introduction": "Introduction to TypeScript",
             "transpile": "Running TypeScript code using transpilation",
             "run": "Running TypeScript with a runner",
-            "runNatively": "Running TypeScript Natively"
+            "runNatively": "Running TypeScript Natively",
+            "publishingTSPackage": "Publishing a TypeScript package"
           }
         },
         "asynchronousWork": {
@@ -280,9 +285,11 @@
           "brew": "Homebrew is a package manager for macOS and Linux.",
           "choco": "Chocolatey is a package manager for Windows.",
           "devbox": "Devbox creates isolated, reproducible development environments.",
-          "docker": "Docker is a containerization platform."
+          "docker": "Docker is a containerization platform.",
+          "volta": "\"Volta\" is a cross-platform Node.js version manager."
         }
       }
-    }
+    },
+    "logo": "Node.js logo"
   }
 }
