@@ -185,6 +185,14 @@
               "link": "/learn/getting-started/profiling",
               "label": "components.navigation.learn.gettingStarted.links.profiling"
             },
+            "fetch": {
+              "link": "/learn/getting-started/fetch",
+              "label": "components.navigation.learn.gettingStarted.links.fetch"
+            },
+            "websocket": {
+              "link": "/learn/getting-started/websocket",
+              "label": "components.navigation.learn.gettingStarted.links.websocket"
+            },
             "securityBestPractices": {
               "link": "/learn/getting-started/security-best-practices",
               "label": "components.navigation.learn.gettingStarted.links.securityBestPractices"
@@ -209,6 +217,10 @@
             "runNatively": {
               "link": "/learn/typescript/run-natively",
               "label": "components.navigation.learn.typescript.links.runNatively"
+            },
+            "publishingTSPackage": {
+              "link": "/learn/typescript/publishing-a-ts-package",
+              "label": "components.navigation.learn.typescript.links.publishingTSPackage"
             }
           }
         },
